@@ -1,4 +1,4 @@
-# Simplified_Interactive_Linux_Shell
+# Simplified Interactive Linux Shell
 
 ## Project Overview
 
