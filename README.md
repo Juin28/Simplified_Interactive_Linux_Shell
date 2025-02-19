@@ -4,13 +4,6 @@
 
 The **Simplified Interactive Linux Shell** project is a custom Linux shell that has the functionalities of process management, input/output redirection, and inter-process communication. The goal was to create a simplified shell that mimics the functionality of a standard Linux shell while implementing essential system calls directly, without relying on higher-level functions like `system` or `popen`.
 
-## Functionalities
-
-1. **Process Management**: A shell that can start and terminate processes, maintaining process IDs for tracking.
-2. **Command Execution**: Support basic command execution, including built-in commands like `exit`.
-3. **Redirection**: Enable both input and output redirection using Linux system calls, allowing users to redirect data from files to commands and vice versa.
-4. **Piping**: Multi-level piping, allowing the output of one command to be used as the input for another, facilitating complex command chains.
-
 ## Implementation Details
 
 ### Key Features
